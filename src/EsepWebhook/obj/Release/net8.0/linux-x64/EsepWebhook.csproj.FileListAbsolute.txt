@@ -1,0 +1,17 @@
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.deps.json
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.dll
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.pdb
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Core.dll
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.dll
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/refint/EsepWebhook.dll
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Applications/Coding_Projects/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
